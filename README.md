@@ -3,7 +3,7 @@
 A comprehensive  list of the best AI agent directories available online. This curated collection includes websites and GitHub repositories that feature top AI agents, frameworks, and tools. Whether you're a developer, researcher, or entrepreneur, this list helps you discover, evaluate, and integrate the most powerful AI agents and platforms in the ecosystem.
 
 ## AI Agents Directories
-
+- [Add AI Directory](https://addaidirectory.com/) - An online platform that catalogs and categorizes AI agents and tools. Users can easily discover, compare, and select AI solutions, while businesses can advertise featured AI agents.
 - [Altern AI Agents](https://altern.ai/ai-agents) - The world's largest AI agent marketplace, offering 1000+ agents across 50+ categories like productivity, coding, and voice AI. 
 - [AI Agents Directory](https://aiagentsdirectory.com) - Comprehensive comparison platform with filters for AI agent capabilities, pricing, use cases
 - [AI Agents List](https://aiagentslist.com) - Comprehensive comparison platform with filters for AI agent capabilities, pricing, use cases (e.g., customer service, HR, design, marketing).
